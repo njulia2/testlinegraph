@@ -1,3 +1,103 @@
+Mile,Shelter,State,Elevation
+0,Springer Mountain,GA,3780
+0.2,Springer Mountain Shelter,GA,3730
+2.8,Stover Creek Shelter,GA,2930
+8.1,Hawk Mountain Shelter,GA,3210
+15.8,Gooch Mountain Shelter,GA,2820
+28.2,Woods Hole Shelter,GA,3690
+29.3,Blood Mountain Shelter,GA,4460
+38.4,Whitley Gap Shelter,GA,3650
+43.2,Low Gap Shelter,GA,3050
+50.5,Blue Mountain Shelter,GA,3910
+58.6,Tray Mountain Shelter,GA,4200
+66,Deep Gap Shelter,GA,3580
+74.1,Plumorchard Gap Shelter,GA,3170
+81.4,Muskrat Creek Shelter,NC,4580
+86.3,Standing Indian Shelter,NC,4760
+93.9,Carter Gap Shelter,NC,4520
+102.5,Long Branch Shelter,NC,5000
+106,Rock Gap Shelter,NC,3790
+114,Siler Bald Shelter,NC,4790
+120.8,Wayah Bald Shelter,NC,4730
+125.6,Cold Spring Shelter,NC,4950
+131.4,Wesser Bald Shelter,NC,4230
+136.3,A. Rufus Morgan Shelter,NC,2200
+144,Sassafras Gap Shelter,NC,4400
+153.1,Brown Fork Gap Shelter,NC,3740
+159.2,Cable Gap Shelter,NC,2910
+165.9,Fontana Dam Shelter,NC,1860
+177.3,Mollies Ridge Shelter,TN,4600
+180.4,Russell Field Shelter,TN,4370
+183.2,Spence Field Shelter,NC,4920
+189.3,Derrick Knob Shelter,TN,4900
+195,Silers Bald Shelter,NC,5450
+196.7,Double Spring Gap Shelter,NC,5510
+202.8,Mt. Collins Shelter,TN,5970
+210.1,Icewater Spring Shelter,NC,5940
+217.3,Pecks Corner Shelter,NC,5560
+222.2,Tri-corner Knob Shelter,NC,5910
+229.9,Cosby Knob Shelter,NC,4790
+237,Davenport Gap Shelter,TN,2570
+247.5,Groundhog Creek Shelter,NC,2930
+255.7,Roaring Fork Shelter,NC,4040
+260.6,Walnut Mountain Shelter,TN,4360
+270.5,Deer Park Mountain Shelter,NC,2340
+284.7,Spring Mountain Shelter,TN,3560
+293.3,Little Laurel Shelter,NC,3670
+300.1,Jerry Cabin Shelter,NC,4170
+306.4,Flint Mountain Shelter,NC,3590
+315.2,Hogback Ridge Shelter,NC,4330
+325.3,Bald Mountain Shelter,TN,4100
+335.9,No Business Knob Shelter,TN,3190
+346.4,Curley Maple Gap Shelter,TN,3080
+359.2,Cherry Gap Shelter,TN,4010
+368.3,Clyde Smith Shelter,TN,4510
+376.8,Roan High Knob Shelter,TN,6190
+382,Stan Murray Shelter,NC,5060
+383.9,Overmountain Shelter,NC,4650
+401.9,Mountaineer Shelter,TN,3190
+411.5,Moreland Gap Shelter,TN,3820
+420.1,Laurel Fork Shelter,TN,2190
+428.7,Watauga Lake Shelter,TN,2080
+435.9,Vandeventer Shelter,TN,3580
+442.7,Iron Mountain Shelter,TN,4120
+450.3,Double Springs Shelter,TN,4230
+458.6,Abingdon Gap Shelter,TN,3800
+478.3,Saunders Shelter,VA,3380
+484.8,Lost Mountain Shelter,VA,3400
+497.1,Thomas Knob Shelter,VA,5430
+502.3,Wise Shelter,VA,4430
+509,Old Orchard Shelter,VA,4080
+513.2,Hurricane Mountain Shelter,VA,3810
+522.4,Trimpi Shelter,VA,3030
+532.2,Partnership Shelter,VA,3360
+539.2,Chatfield Shelter,VA,3200
+547.2,Davis Path Campsite,VA,2880
+558.5,Knot Maul Branch Shelter,VA,2760
+567.9,Chestnut Knob Shelter,VA,4410
+578.6,Jenkins Shelter,VA,2420
+592.1,Helveys Mill Shelter,VA,3140
+601.8,Jenny Knob Shelter,VA,2680
+616.3,Wapiti Shelter,VA,2660
+625.8,Docs Knob Shelter,VA,3560
+641.5,Rice Field Shelter,VA,3370
+654.1,Pine Swamp Branch Shelter,VA,2550
+658,Bailey Gap Shelter,VA,3530
+666.8,War Spur Shelter,VA,2380
+672.6,Laurel Creek Shelter,VA,2820
+679,Sarver Hollow Shelter,VA,3420
+685,Niday Shelter,VA,2010
+695.1,Pickle Branch Shelter,VA,1920
+708.7,Johns Spring/Boy Scout Shelter,VA,1970
+709.7,Catawba Mountain Shelter,VA,2220
+712.1,Campbell Shelter,VA,2650
+718.1,Lamberts Meadow Shelter,VA,2140
+732.5,Fullhardt Knob Shelter,VA,2650
+738.7,Wilson Creek Shelter,VA,1870
+746,Bobblets Gap Shelter,VA,2100
+752.5,Cove Mountain Shelter,VA,1960
+759.5,Bryant Ridge Shelter,VA,1300
+764.4,Cornelius Creek Shelter,VA,3130
 769.7,Thunder Hill Shelter,VA,3930
 782.1,Matts Creek Shelter,VA,869
 786,Johns Hollow Shelter,VA,1040
@@ -89,7 +189,6 @@
 1556.9,October Mountain Shelter,MA,1920
 1565.7,Kay Wood Shelter,MA,1780
 1582.6,Mark Noepel Shelter,MA,2840
-Off Trail,Pecks Brook Shelter,MA,2490
 1589.2,Wilbur Clearing Shelter,MA,2300
 1599.1,Seth Warner Shelter,VT,2240
 1606.3,Congdon Shelter,VT,2100
